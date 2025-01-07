@@ -82,6 +82,17 @@ This project focuses on emotion detection using the FER2013 dataset and TensorFl
    - Optimize performance for real-time inference.
 
 ---
+## License
+
+This project is licensed under the MIT License.
+
+## Acknowledgments
+
+FER2013 Dataset: Used for training and evaluation.
+
+TensorFlow/Keras: Framework for deep learning.
+
+Open-Source Libraries: NumPy, Matplotlib, Seaborn, and more.
 
 ## How to Use
 ### Prerequisites
