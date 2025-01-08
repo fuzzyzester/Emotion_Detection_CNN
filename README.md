@@ -1,7 +1,7 @@
 # Emotion Detection Project
 
 ## Overview
-This project focuses on emotion detection using the FER2013 dataset and TensorFlow/Keras for building and training a deep learning model. The goal is to classify facial expressions into distinct emotion categories such as happy, sad, fear, surprise, neutral, angry, and disgust. The project leverages image data preprocessing, deep learning model design, and evaluation techniques to achieve accurate emotion recognition.
+My project focuses on emotion detection using the FER2013 dataset and TensorFlow/Keras for building and training a deep learning model. The goal is to classify facial expressions into distinct emotion categories such as happy, sad, fear, surprise, neutral, angry, and disgust. It leverages image data preprocessing, deep learning model design, and evaluation techniques to achieve accurate emotion recognition.
 
 ---
 
